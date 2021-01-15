@@ -215,5 +215,12 @@ The [OpenMM](http://openmm.org/) toolkit is used for molecular simulation of pro
 - New technologies
   - https://static1.squarespace.com/static/5c981af7ebfc7fc8528d6564/t/5f4048cda662a571341b9a60/1598048462430/Alix+-+MDD+DNA+Writing.pdf
 
+### NEWS
+- Sinovac
+  - https://www.wsj.com/articles/sinovacs-covid-19-vaccine-is-78-effective-in-brazil-late-stage-trials-11610032825
+  - https://www.cnbc.com/2021/01/13/chinas-sinovac-vaccine-reportedly-50point4percent-effective-in-brazilian-trial.html
+- Random
+  - https://www.nejm.org/doi/full/10.1056/NEJMoa2035389
+
 
 
