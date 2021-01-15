@@ -197,6 +197,7 @@ The [OpenMM](http://openmm.org/) toolkit is used for molecular simulation of pro
 - Reverse Engineering
   - https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
   - https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
+  - https://berthub.eu/articles/posts/merekayasa-balik-kode-sumber-vaksin-sars-cov-2-biontech-pfizer/
 
 ### Genome studies (what genes = bad covid)
 - https://www.nejm.org/doi/full/10.1056/NEJMoa2020283?source=nejmtwitter&medium=organic-social
